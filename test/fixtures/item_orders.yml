@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  item_id_id: 
+  order_id_id: 
+  date: 2017-08-08
+  quantity: 1
+
+two:
+  item_id_id: 
+  order_id_id: 
+  date: 2017-08-08
+  quantity: 1
